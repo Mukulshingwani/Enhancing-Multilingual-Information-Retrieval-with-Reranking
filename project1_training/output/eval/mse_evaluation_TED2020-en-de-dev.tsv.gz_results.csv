@@ -1,0 +1,4 @@
+MSE With Knowledge Distillation,,MSE Without Knowledge Distillation,
+En-En,26.55,En-En,37.43
+En-De,26.92,En-De,40.46
+En-Ar,29.76,En-Ar,46.85
